@@ -6,5 +6,4 @@ export default defineNuxtConfig({
       title: 'Title'
     }
   },
-  buildDir: 'dist'
 })
